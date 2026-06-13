@@ -1,0 +1,4 @@
+uncertainty_measure,auroc_for_error_detection
+predictive_entropy,0.7060348162475821
+epistemic_uncertainty (MC variance),0.59678916827853
+negative confidence,0.7649129593810445

@@ -1,0 +1,5 @@
+case,test_index,true_class,predicted_class,predicted_probability,correct,attention_weight_image,attention_weight_metadata
+1,37,MEL,MEL,0.7330448627471924,True,0.49837798,0.5016221
+2,36,SEK,SEK,0.8402870297431946,True,0.49959403,0.50040597
+3,236,ACK,SEK,0.25205057859420776,False,0.50099826,0.4990018
+4,235,ACK,MEL,0.23314517736434937,False,0.49617815,0.50382185
